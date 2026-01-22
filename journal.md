@@ -1,0 +1,5 @@
+Date: 1.22.26 — Subject: Team setup and repos
+
+This week we got into our groups and spent some time getting to know each other, which ended up being really helpful later on. We worked together on the square tangram activity, and it turned into a good lesson on communication. At first it was kind of messy, but we learned pretty quickly that being clear and working through ideas together makes a big difference.
+
+Later in the week we set up our team GitHub repositories, and that part was a bit rough at the beginning. We ran into some confusion getting everything connected and figuring out how repos actually work, but after some trial and error we were able to get things running. By the end it made more sense, and hopefully by the end of the semester we’ll be way more comfortable with Git and maybe even feel like actual Git experts.
