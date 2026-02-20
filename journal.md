@@ -19,3 +19,7 @@ Once we decided on the app, then we created our user stories. These were feature
 Date 2/12/2026 - Subject: Diagram
 
 This week we learned about the importance of diagrams when it comes to group projects. Our professor Jeff Compass taught us how to create useful diagrams. Starting by the readibility, with this we need to think about other people. If we have to present this diagram to an engineer that may be working with our team in the future we need to think about how the diagram can be interpretated in the way we want it. I never thought that diagrams could be really this useful, I just thougth it was nice just to get the ideas/steps kind of organized in a way, but after learning about these things and the professor's experience I was able to look at it from another point of view. I cannot wait to get started on this project!
+
+Date 2/19/2026 - Subject: Presentation prep
+
+This week my team and I got met to put a presentation together. Our goal with this is to share our app idea with the rest of the classroom. It was a fun process, we divided what each person was supposed to do and assigned slides to each one. Next week, we will be presenting these in front of the class. We hope to transmit our ideas clearly and hope to also get some useful feedback from our classmates. We are so excited to show the project we have in mind. I'll write about how the presentation goes next week!
