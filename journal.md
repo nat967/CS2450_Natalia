@@ -4,7 +4,7 @@ This week we got into our groups and spent some time getting to know each other,
 
 Later in the week we set up our team GitHub repositories, and that part was a bit rough at the beginning. We ran into some confusion getting everything connected and figuring out how repos actually work, but after some trial and error we were able to get things running. By the end it made more sense, and hopefully by the end of the semester we’ll be way more comfortable with Git and maybe even feel like actual Git experts.
 
-Date: 1/25/26 - Subject: Brainstorming
+Date: 1/29/26 - Subject: Brainstorming
 
 This week we decided what our group project would be. We came up with many ideas of what type of social media people would enjoy. Some things we talked about are location, music, activities, photobooths, clothes, sports, etc. We had the idea that maybe people wanted to share their current favorite outfits or clothing items. So we came up with an idea of a platform to do so or even sell your clothes there. The activities app was more focused on plans going on in the user's area. At times some want to go out and participate in events so an app where companies get to post event going on that week would be useful. We all like music a lot and thought that we could make an app that consisted on sharing a wrap of our most listened songs during a week, also a place where new artits can share their music. 
 
