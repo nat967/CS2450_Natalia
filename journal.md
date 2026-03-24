@@ -30,3 +30,13 @@ Today we started with the classe's presentations. My team actually was the first
 Date 3/5/2026 - Subject: Pair Programming 
 
 This week we have been working on developing the app. We distributed the work for the week and assigned each person a task. Since we had to complete the pai programming assignment we actually just worked in pairs for this first part. We found it a very useful option to work together. I liked how we all had different thought proccesses and how we helped each other. We were able to finish at least 2 of the tasks we had planned to do, which was great progress for our app. Can't wait to see the rest of our journey!
+
+Date 3/12/2026 - Subject: Spring Break
+This week was spring break.
+
+Date 3/20/2026 - Subject: Ethics week
+
+This week in class we talked about the Trolley Problem and how it connects to ethics in software engineering. It was actually pretty interesting because it showed us how making choices in tech can be similar to complicated moral decicions. We discussed how developers have to think about things like safety, privacy, and fairness when developing software. It made me realize that writing code isn't just about the technical stuff but also making hard choices that can affect people's lives. 
+
+Date 3/26/2026 - Subject:
+
