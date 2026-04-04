@@ -28,15 +28,16 @@ Date 2/24/2026 - Subject: Presentation day
 Today we started with the classe's presentations. My team actually was the first one to present we volunteered to just get it over with. The presentation went smoothly we shared our idea with the rest of the class. In our presentation we showed our solutions architect, the in and out of scope for the app: some features we will for sure have for the first version, and what things we'd like to add in future versions. At the end we had a bunch of questions which we were ver excited about. This was my favorite part because I liked seeing the app from the user's point of view. It helped us realize that there are some features we haven't thought about. There was this really good question asking how will we handle the spike in traffic and load on Sunday, posting day. This is something we need to talk about as a team, so I'm glad our classmate brought it up.
 
 Date 3/5/2026 - Subject: Pair Programming 
-
 This week we have been working on developing the app. We distributed the work for the week and assigned each person a task. Since we had to complete the pai programming assignment we actually just worked in pairs for this first part. We found it a very useful option to work together. I liked how we all had different thought proccesses and how we helped each other. We were able to finish at least 2 of the tasks we had planned to do, which was great progress for our app. Can't wait to see the rest of our journey!
 
 Date 3/12/2026 - Subject: Spring Break
 This week was spring break.
 
 Date 3/20/2026 - Subject: Ethics week
-
 This week in class we talked about the Trolley Problem and how it connects to ethics in software engineering. It was actually pretty interesting because it showed us how making choices in tech can be similar to complicated moral decicions. We discussed how developers have to think about things like safety, privacy, and fairness when developing software. It made me realize that writing code isn't just about the technical stuff but also making hard choices that can affect people's lives. 
 
-Date 3/26/2026 - Subject:
+Date 3/26/2026 - Subject: Unit Testing
+This week in class we learned about how developers use unit testing to check the quality of their code before merging it into the main branch. We practiced creating a suite of automated tests for the Youface app using Selenium, with each team member focusing on testing different parts of the user interface. Learning this is very useful in the real world because it helps developers catch errors early and maintain higher-quality code. Automated testing makes it easier to verify that new changes don’t break existing features, saving time and reducing bugs in production. 
 
+Date 4/3/2026 - Subject: Refactoring
+This week in class we learned about code refactoring, which is the process of improving the structure and readability of existing code without changing its functionality. We practiced cleaning up variable names, simplifying nested if statements, organizing classes, and adding comments to make programs easier to maintain and understand. Learning how to refactor code is extremely useful in the real world because it helps developers keep projects clean, organized, and easy to update.
